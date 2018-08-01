@@ -1,2 +1,2 @@
-# ACADGILD_ASSIGNMENTS_1
+# ACADGILD_ASSIGNMENT_1
 created to submit assignments of acadgild course
